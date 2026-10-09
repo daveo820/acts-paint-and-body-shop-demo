@@ -54,7 +54,7 @@ p{margin:0 0 1em;max-width:66ch}
 a{color:inherit}
 :focus-visible{outline:3px solid var(--gold);outline-offset:3px}
 .wrap{max-width:var(--wrap);margin:0 auto;padding:0 var(--gut)}
-.kicker{margin:0 0 16px;font:700 .76rem/1.3 var(--f-body);letter-spacing:.3em;text-transform:uppercase;color:var(--brick-dk)}
+.kicker{margin:0 0 16px;font:700 .8125rem/1.3 var(--f-body);letter-spacing:.3em;text-transform:uppercase;color:var(--brick-dk)}
 .on-dark .kicker{color:var(--gold)}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .skip{position:absolute;left:-999px;top:8px;background:var(--soot);color:#fff;padding:10px 14px;z-index:99}
